@@ -34,4 +34,4 @@ Example manifests are unsigned until the release step. Do not deploy their place
 
 ## Complete guide
 
-See [DEVELOPMENT.md](DEVELOPMENT.md) for the complete create → build → sign → deploy → database → runtime-test → release workflow.
+See [DEVELOPMENT.md](https://github.com/julienguillot77/TrinityCoreModuleSDK/blob/master/DEVELOPMENT.md) for the complete create → build → sign → deploy → database → runtime-test → release workflow.
