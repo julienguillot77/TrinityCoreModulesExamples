@@ -11,7 +11,7 @@ Both modules include only the installed `TrinityModule.h` SDK header. They do no
 
 ## Build
 
-Install the standalone [TrinityCoreModuleSDK](https://github.com/TrinityCore/TrinityCoreModuleSDK) package, then configure and build from this repository root:
+Install the standalone [TrinityCoreModuleSDK](https://github.com/julienguillot77/TrinityCoreModuleSDK) package, then configure and build from this repository root:
 
 ```sh
 cmake -S . -B build -DCMAKE_PREFIX_PATH=/path/to/trinitycore-module-sdk
