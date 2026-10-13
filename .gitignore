@@ -1,0 +1,30 @@
+# CMake and IDE build output
+build-*/
+
+# Generated build artifacts
+[Bb]uild/
+[Bb]uild-*/
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Compiled binaries and debug artifacts
+*.dll
+*.dylib
+*.so
+*.a
+*.lib
+*.exp
+*.ilk
+*.obj
+*.o
+*.pdb
+*.idb
+*.recipe
+*.tlog/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
